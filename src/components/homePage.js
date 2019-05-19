@@ -1,13 +1,13 @@
 import React from "react"
 import "bootstrap/dist/css/bootstrap.min.css"
-import svgContact from "C:/Users/David Luong/hello-world/src/pics/baseline-contact_mail-24px.svg"
-import svgPhone from "C:/Users/David Luong/hello-world/src/pics/baseline-contact_phone-24px.svg"
-import svgLocation from "C:/Users/David Luong/hello-world/src/pics/baseline-location_on-24px.svg"
-import picture from "C:/Users/David Luong/hello-world/src/pics/maddieSelfie.png"
-import fbSVG from "C:/Users/David Luong/hello-world/src/pics/iconmonstr-facebook-6.svg"
-import twitterSVG from "C:/Users/David Luong/hello-world/src/pics/iconmonstr-twitter-1.svg"
-import linkedinSVG from "C:/Users/David Luong/hello-world/src/pics/iconmonstr-linkedin-3.svg"
-import "C:/Users/David Luong/hello-world/src/style/homePageStyle.css"
+import svgContact from "../pics/baseline-contact_mail-24px.svg"
+import svgPhone from "../pics/baseline-contact_phone-24px.svg"
+import svgLocation from "../pics/baseline-location_on-24px.svg"
+import picture from "../pics/maddieSelfie.png"
+import fbSVG from "../pics/iconmonstr-facebook-6.svg"
+import twitterSVG from "../pics/iconmonstr-twitter-1.svg"
+import linkedinSVG from "../pics/iconmonstr-linkedin-3.svg"
+import "../style/homePageStyle.css"
 import { withStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
