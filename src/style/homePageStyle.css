@@ -1,0 +1,30 @@
+body{
+    /* -webkit-transform: scale(0.67);
+       -moz-transform: scale(0.67);
+            transform: scale(0.67); */
+            align-content: center;
+            /* background: lightgray */
+            background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+} 
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+    /* custom styles */
+    }
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+    /* custom styles */
+    }
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+    /* custom styles */
+    }
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+    /* custom styles */
+    }
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+    /* custom styles */
+    }
+
